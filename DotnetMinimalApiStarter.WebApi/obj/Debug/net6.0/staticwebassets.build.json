@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eSQQ0u8AsWrSLbHglXe/QOn8+jDI4/89NfDTJdYxyNg=",
+  "Source": "DotnetMinimalApiStarter.WebApi",
+  "BasePath": "_content/DotnetMinimalApiStarter.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

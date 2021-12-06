@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d64b7d1e-7531-4819-b9ce-795049d016c6": {
+      "ProjectGuid": "d64b7d1e-7531-4819-b9ce-795049d016c6",
+      "DisplayName": "DotnetMinimalApiStarter.WebApi",
+      "ColorIndex": 0
+    },
+    "906f868d-4107-4db8-86e5-254e9665f1a7": {
+      "ProjectGuid": "906f868d-4107-4db8-86e5-254e9665f1a7",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
